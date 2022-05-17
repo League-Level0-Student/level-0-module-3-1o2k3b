@@ -1,11 +1,11 @@
 
 package _01_else_if._3_high_low;
 
-import java.util.Random;
+import java.util.Random {
 
 import javax.swing.JOptionPane;
 
-public class HighLowGame {
+public class HighLowGame{
 
 	public static void main(String[] args) {
 		// 3. Change this line to give you a random number between 1 - 100. 
@@ -39,7 +39,7 @@ int fart = Integer.parseInt(number);
 				// 10. Tell them it's too low
 
 		// 13. Tell them they lose
-		
+	}
 	}
 
 }
