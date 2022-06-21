@@ -18,9 +18,7 @@ public class serverclass {
 		 if (w.equals("no")) {
 				String a = JOptionPane.showInputDialog(
 						"you and your friend wonder around till you find a ruby in the wall, do you take it out?");
-		 }
-		 
-		  if (a.equals("yes")) {
+				if (a.equals("yes")) {
 					String c = JOptionPane.showInputDialog(
 							"when you take it out, you realize it looks just like the ruby on your sword, but you have no time to marvel at it, because the ruby reveals a giant chamber with a giant spider inside, do you run,(yes) or break through the chamber and fight the spider?(no)");
 				 
@@ -40,6 +38,10 @@ public class serverclass {
 					 }
 		  
 		  }
+		 
+		 }
+		 
+		  
 				
 					
 					
